@@ -14,11 +14,11 @@ Como funciona?
   
 Feito por:
 
--Guilherme Fialho
+  -Guilherme Fialho
 
--João Vinícius Vitral
+  -João Vinícius Vitral
 
--Thiago Paixão
+  -Thiago Paixão
   
   
 Se ajudou, deixa uma star. Valeu
