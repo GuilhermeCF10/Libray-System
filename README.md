@@ -12,4 +12,13 @@ Como funciona?
   
   
   
+Feito por:
+
+-Guilherme Fialho
+
+-João Vinícius Vitral
+
+-Thiago Paixão
+  
+  
 Se ajudou, deixa uma star. Valeu
